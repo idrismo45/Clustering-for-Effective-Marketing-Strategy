@@ -1,1 +1,1 @@
-# Clustering-for-Effective-Marketing-Strategy
+# Customer-Segmentation-for-Smarter-Marketing
